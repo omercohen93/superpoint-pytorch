@@ -10,6 +10,7 @@ But still, the results of homogrphic addaptation combined with the system seems 
 ![image](https://user-images.githubusercontent.com/73498160/111214201-55931780-85da-11eb-8001-57b1807bdb1b.png)
 
 To see in comparison to other point detection models:
+
 ![image](https://user-images.githubusercontent.com/73498160/111214834-16b19180-85db-11eb-981e-29d950b2cf8a.png)
 
 The overall results do not reach the tracking ability as of the original model.
