@@ -1,6 +1,6 @@
 # superpoint-pytorch
-This file is a pytorch implementation and evaluation of Superpoint model as described in https://arxiv.org/pdf/1712.07629v4.pdf
-We found great help in Rémi Pautrat’s tensorflow implementation: https://github.com/rpautrat/SuperPoint 
+This file is a pytorch implementation and evaluation of Superpoint model as described in https://arxiv.org/pdf/1712.07629v4.pdf.
+We found great help in Rémi Pautrat’s tensorflow implementation: https://github.com/rpautrat/SuperPoint.
 
 
 In interest point detection, our model seems to not fully converge:
@@ -15,9 +15,11 @@ To see in comparison to other point detection models:
 
 The overall results do not reach the tracking ability as of the original model.
 with original model, the matching points are:
+
 ![image](https://user-images.githubusercontent.com/73498160/111215142-77d96500-85db-11eb-8fe2-c25bd7d8ee83.png)
 
 with our implementation:
+
 ![image](https://user-images.githubusercontent.com/73498160/111215197-8c1d6200-85db-11eb-9e06-f04815a94b86.png)
 
 
