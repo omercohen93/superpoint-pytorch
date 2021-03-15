@@ -7,7 +7,7 @@ We found great help in Rémi Pautrat’s tensorflow implementation: https://gith
 In interest point detection, our model seems to not fully converge:
 ![image](https://user-images.githubusercontent.com/73498160/111214173-4ca24600-85da-11eb-8fd3-2681b2f49719.png)
 
-But still, the results of homogrphic addaptation combined with the system seems good:
+But still, the results of homogrphic addaptation combined with our model seems good:
 ![image](https://user-images.githubusercontent.com/73498160/111214201-55931780-85da-11eb-8001-57b1807bdb1b.png)
 
 To see in comparison to other point detection models:
